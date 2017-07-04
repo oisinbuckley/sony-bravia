@@ -120,3 +120,5 @@ Thanks to ffes for `localtest.py` which is part of his [Buienradar](https://gith
 * KD-55SD8505 Android
 
 * KD-55XD8505 Android
+
+* KD-55XD9305 Android
